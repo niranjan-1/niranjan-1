@@ -1,6 +1,6 @@
 - 👋 Hi, I’m Niranjan
 - 👀 I’m interested in Artificial Intelligence, Machine learning , Datascience
-- 🌱 I’m currently learning A.I
+- 🌱 I’m currently learning Data science
 - 📫 How to reach me:niranjankumar993725@gmail.com
 
 <!---
