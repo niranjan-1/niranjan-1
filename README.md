@@ -9,6 +9,6 @@ You can click the Preview link to take a look at your changes.
 --->
 [Linkedin]: https://www.linkedin.com/in/niranjan-kumar-127a8b179/
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=niranjan-1&hide=java,html,css&theme=dracula)]
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=niranjan-1&hide=java,html,css&theme=dracula)](https://github.com/niranjan-1?tab=repositories)
 
-[![Catalin's GitHub stats](https://github-readme-stats.vercel.app/api?username=niranjan-1&theme=dracula)]
+[![Catalin's GitHub stats](https://github-readme-stats.vercel.app/api?username=niranjan-1&theme=dracula)](https://github.com/niranjan-1?tab=repositories)
