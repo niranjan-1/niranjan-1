@@ -1,4 +1,4 @@
-# [Hi <img src="https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/Hi.gif" width="30px"> I'm Niranjan][website]
+# [Hi <img src="https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/Hi.gif" width="30px"> I'm Niranjan][Linkedin]
 - 👀 I’m interested in Artificial Intelligence, Machine learning , Datascience
 - 🌱 I’m currently learning Data science
 - 📫 How to reach me:niranjankumar993725@gmail.com
