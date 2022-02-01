@@ -1,7 +1,7 @@
 # [Hi <img src="https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/Hi.gif" width="30px"> I'm Niranjan][Linkedin]
 - 👀 I’m interested in Artificial Intelligence, Machine learning , Datascience
 - 🌱 I’m currently learning Data science
-- 📫 How to reach me:niranjankumar993725@gmail.com
+- 📫 How to reach me:niranjan04333@gmail.com
 
 <!---
 niranjan-1/niranjan-1 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
